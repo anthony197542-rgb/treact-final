@@ -970,10 +970,12 @@ section #testimonials {
 .testimonial__bottom {
   display: flex;
   justify-content: space-between;
+
 }
 .testimonial__profile {
   display: flex;
   align-items: center;
+
 }
 .testimonial__details {
   margin-left: 24px;
@@ -1537,7 +1539,7 @@ footer {
     text-transform: upprcase;
   }
     
-}
+
   section {
     padding: 0 32;
   }
