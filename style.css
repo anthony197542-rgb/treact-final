@@ -1573,6 +1573,7 @@ footer {
   .feature__text {
     margin-left: 0px;
     margin-top: 16px;
+    text-align: center;
   }
   .feature__para {
     margin-top: 4px;
